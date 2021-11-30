@@ -35,4 +35,4 @@
 This project is for training how to get information from the fasta file with Biopython. I am able to obtain complement/reverse complement sequence, GC contents, RNA sequence, amino acid sequence, do alignment with PDB to show 3D structure with multiple data of interest.
 
 ## What is the Next?
-I am participated in one project related to cMYC-microRNA1207. I am going to analyze MYC to make sure the domains of DNA binding, MAX binding and more. 
+I am participating in one project related to cMYC-microRNA1207. I am going to analyze MYC to make sure the domains of DNA binding, MAX binding and more with a biopython library. 
